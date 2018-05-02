@@ -1,4 +1,4 @@
-Python Code File : ClassifyingToxicity.ipynb or ClassifyingToxicity under Code, Charts folder
+Python Code File : ClassifyingToxicity.ipynb or ClassifyingToxicity.html under Code, Charts folder
 
 All the dataset i.e Training Dataset(train.csv), Testing Dataset(test.csv), submission dataset which was given as a sample can be found under DataSet folder as (Sample_submission.csv)
 
