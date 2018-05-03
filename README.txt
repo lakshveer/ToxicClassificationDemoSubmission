@@ -6,4 +6,3 @@ Final Submission on test data can be found in Submission_LR.csv under DataSet fo
 
 All the charts shown in the can be found under Code, Charts folder.
 
-To run the code: Open command prompt and run the ClassifyingToxicity.ipynb file.
